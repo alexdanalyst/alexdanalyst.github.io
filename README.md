@@ -84,7 +84,7 @@ Data → Process → Business Problem → Insight → Action
 
 I am open to opportunities, collaborations, internships, entry-level positions and projects involving Data Analysis, Business Analysis, Business Intelligence and Process Improvement.
 
-GitHub:https://alexda-ba.github.io/
+GitHub:https://alexdanalyst.github.io/
 
 LinkedIn: www.linkedin.com/in/alex-esivbekpe
 
